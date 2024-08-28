@@ -17,12 +17,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sep 2023 - Future:** ShanghaiTech Univeristy (Incoming EE Msc, supervised by [Prof. Tao Wu](https://small.shanghaitech.edu.cn/))
 - **Sep 2023 - Future:** ICRD (Joint Cultivation)
 
-  
+
 ---
 
 ## Research Interests
 
-- Internet of Everything
 - MEMS Device
 - Device Reliability
 - Process Develop
