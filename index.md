@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Yantao Huang (Antawn, 黄严涛)**.
+Here is **Yantao Huang (黄严涛)**.
 
 I am a postgraduate majoring in EE at ShanghaiTech University and ICRD (Joint Cultivation). Currently, I serve as a joint culticated student at the New Device & Material Lab, advised by Dr. Xiaoxu Kang. I also a student advise by with [Prof. Tao Wu](https://small.shanghaitech.edu.cn/) at ShanghaiTech University. 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
