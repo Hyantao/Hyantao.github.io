@@ -1,24 +1,24 @@
-title: Hanlin Cai
+title: Yantao Huang
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://Hyantao.github.io
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Yantao Huang
+  avatar: yantao.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: hanlin.cai@ieee.org
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  email: huangyt2023@shanghaitech.edu.cn
+  cv: https://Hyantao.github.io/file/CV.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  X: ANTAWN
+  github: Hyantao
+  linkedin: Not Yet
+  scholar: Not Yet
+  douyin: 205659588
+  #researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  #zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -50,7 +50,7 @@ links:
     url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: China/Shanghai
 future: true
 highlighter: rouge
 # markdown: kramdown
