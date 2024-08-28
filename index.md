@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/huangyantao.jpg" class="floatpic" width="360" height="480">
+<img src="https://Hyantao.github.io/huangyantao.jpg" class="floatpic" width="360" height="480">
 
 Here is **Yantao Huang (黄严涛)**.
 
